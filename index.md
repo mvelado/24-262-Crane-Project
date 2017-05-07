@@ -27,7 +27,7 @@ Our crane is divided into three main parts: The lever arm, the crane arm, and th
  4. Results
  We estimate to use 56.14% of the motor's torque with our design. 
  
-**Theoretical Life Distance Calculations**
+**Theoretical Lift Distance Calculations**
 
  1. Assumptions
  - We assume that that the torque and angle of rotation vary linearly
