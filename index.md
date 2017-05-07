@@ -41,4 +41,8 @@ Our crane is divided into three main parts: The lever arm, the crane arm, and th
 - h = ? (Actual height of lift)
 ```
  3. Calculations
- //Will have updated calc
+ will come
+
+**Interesting and Original Features**
+
+**Structural Principle Applications**
