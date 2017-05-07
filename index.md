@@ -7,14 +7,22 @@ Our crane is divided into three main parts: The lever arm, the crane arm, and th
 
 ### Theoretical Predictions
 
+**Theoretical Servo Torque Calculations**
+
 1. Assumptions
  - We assume that no forces being applied to the motor (i.e. friction)
 
 
 2. Variables
 ```markdown
-
+- T = -56 oz-in (Maximum torque of Servo motor)
+- W = 16 oz (Weight of the cylinder)
+- D = 2 in (Distance between motor and weight)
+- Tu = Torque of Motor used
+- r = ? (Ratio maximum torque used)
 ```
+3. Calculations
+
 
 ## Welcome to GitHub Pages
 
