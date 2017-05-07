@@ -52,7 +52,7 @@ One of our favorite parts of our project was our crane arm truss. Many people we
 The leap in our knowledge from our initial Statics class to Stress Analysis was very clear as we hopped from the first Design Review to the second Design Review. The first design review, our crane didn't collapse, which was good news, however, it was unable to lift the weight at all. The crane held and didn't get destroyed, but we had not properly prepared the base to withstand the torsion on the crane arm or the bending that would occur to the crane arm. 
 
 <center>Design I Base</center>
-![Image](base.png)
+![Image](/base.png)
 
 As we learned those concepts in class, we adapted our design to be ready to withstand the torsion moments and bending moments. For the bending moments, we added additional supports to the base from the arm that extending closer to the servo motor and lever arm. The additional support distribute the load more and had the support end closer to the source of the force. As we learned from cantaliver beams; which our crane resembled a lot, the further the force is from the support, the greater the deflection. For the torsion, we also made sure to secure our arm along more points to the base as opposed to the singular two we had originally. These multiple anchor points made more moment to counter act the torsion moment caused by the weight of the servo and lever arm to where it wouldn't twist. Finally, since we finally had a much stronger moment to withstand the torsion moment, we could make it greater and add a counterweight which would help the servo motor lift the weight more easily to the 2 in. we needed. 
 
