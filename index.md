@@ -9,20 +9,43 @@ Our crane is divided into three main parts: The lever arm, the crane arm, and th
 
 **Theoretical Servo Torque Calculations**
 
-1. Assumptions
+ 1. Assumptions
  - We assume that no forces being applied to the motor (i.e. friction)
 
 
-2. Variables
+ 2. Variables
 ```markdown
-- T = -56 oz-in (Maximum torque of Servo motor)
+- T = 56 oz-in (Maximum torque of Servo motor)
 - W = 16 oz (Weight of the cylinder)
 - D = 2 in (Distance between motor and weight)
 - Tu = Torque of Motor used
 - r = ? (Ratio maximum torque used)
 ```
-3. Calculations
+ 3. Calculations
+![Image](/calcServo.png)
 
+ 4. Results
+ We estimate to use 56.14% of the motor's torque with our design. 
+ 
+**Theoretical Life Distance Calculations**
+
+ 1. Assumptions
+ - We assume that that the torque and angle of rotation vary linearly
+ 
+ 2. Variables 
+```markdown
+- øm = 90º (Maximum angle of rotation)
+- hm = 2 in (Maximum height of lift)
+- r = 56.14% (Ratio of max torque used)
+- ø = ? (Actual angle of rotation)
+- h = ? (Actual height of lift)
+```
+ 3. Calculations
+ //Will have updated calc
+
+### Interesting and Original Features
+
+### Learned Concepts Application
 
 ## Welcome to GitHub Pages
 
