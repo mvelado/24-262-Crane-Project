@@ -8,9 +8,8 @@ Our crane is divided into three main parts: The lever arm, the crane arm, and th
 ### Theoretical Predictions
 
 1. Assumptions
-```markdown
  - We assume that no forces being applied to the motor (i.e. friction)
-```
+
 
 2. Variables
 ```markdown
