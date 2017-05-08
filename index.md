@@ -38,14 +38,15 @@ The crane arm is a triagular cross section truss. It's design allows it to resis
 
  2. Variables
 ```markdown
-- T = 56 oz-in (Maximum torque of Servo motor)
+- T = 57 oz-in (Maximum torque of Servo motor)
 - W = 16 oz (Weight of the cylinder)
-- D = 2 in (Distance between motor and weight)
+- Wc = 4 oz (Weight of the counter weight)
+- D = 4 in (Distance between motor and weight)
 - Tu = Torque of Motor used
 - r = ? (Ratio maximum torque used)
 ```
  3. Calculations
-![Image](/calcServo.png)
+![Image](/calcServoFinal.png)
 
  4. Results
  We estimate to use 56.14% of the motor's torque with our design. 
@@ -57,14 +58,15 @@ The crane arm is a triagular cross section truss. It's design allows it to resis
  
  2. Variables 
 ```markdown
-- øm = 90º (Maximum angle of rotation)
+- øm = 45º (Maximum angle of rotation)
 - hm = 2 in (Maximum height of lift)
-- r = 56.14% (Ratio of max torque used)
+- Darm = 4 in (Lenght of Arm)
+- r = 84.2% (Ratio of max torque used)
 - ø = ? (Actual angle of rotation)
 - h = ? (Actual height of lift)
 ```
  3. Calculations
- will come
+![Image](/calcLiftFinal.png)
 
 ### Interesting and Original Features
 <center>Crane Arm Truss</center>
