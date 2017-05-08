@@ -45,7 +45,7 @@ The crane arm is a triagular cross section truss. It's design allows it to resis
 - r = ? (Ratio maximum torque used)
 ```
  3. Calculations
-![Image](/calcServoFinal.png)
+![Image](/Calc1.png)
 
  4. Results
  We estimate to use 84.2% of the motor's torque with our design. 
