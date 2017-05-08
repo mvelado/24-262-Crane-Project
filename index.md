@@ -5,14 +5,20 @@
 ### Mechanism:
 
 <center>Our Crane</center>
-![Image](/cover.JPG){: .center-image }
+![Image](/cover.png){: .center-image }
 
 Our crane is divided into three main parts: The lever arm, the crane arm, and the base. Each part was designed to prevent what torsion and bending, the two main challenges we forsaw in this project. The way our mechanism works is by putting as much stress on the base, as it is the most structurally sound. To put in perspective, everything starts at the lever arm. 
+
+<center>The Hook</center>
+![Image](/hook.png){: .center-image }
+
+
+The lever arm has a "hook" that connect with the weight in order to lift it. The lever arm is screwed into the servo motor horn in order to turn and lift the weight. 
 
 <center>The Lever Arm</center>
 ![Image](/leverarm.png){: .center-image }
 
-The lever arm has a "hook" that connect with the weight in order to lift it. The lever arm is screwed into the servo motor horn in order to turn and lift the weight. Additionally, it has a counter weight at the opposite end of the hook, in order to assist the servo motor in lifting the weight. That servo motor is screwed into our crane arm. 
+Additionally, it has a counter weight at the opposite end of the hook, in order to assist the servo motor in lifting the weight. That servo motor is screwed into our crane arm. 
 
 <center>Crane Arm</center>
 ![Image](/cranearm.png){: .center-image }
@@ -20,7 +26,7 @@ The lever arm has a "hook" that connect with the weight in order to lift it. The
 The crane arm is a triagular cross section truss. It's design allows it to resist the torsion and bending caused by the lever arm and servo. The crane arm is then screwed into our base, which supports the whole crane, with a similar trust design. That is then secured to the bottom metal plate, which is held in place by two metal clamps. 
 
 <center>Base</center>
-![Image](/newbase.JPG){: .center-image }
+![Image](/newbase.png){: .center-image }
 
 ### Theoretical Predictions
 
@@ -75,6 +81,6 @@ The leap in our knowledge from our initial Statics class to Stress Analysis was 
 As we learned those concepts in class, we adapted our design to be ready to withstand the torsion moments and bending moments. For the bending moments, we added additional supports to the base from the arm that extending closer to the servo motor and lever arm. The additional support distribute the load more and had the support end closer to the source of the force. As we learned from cantaliver beams; which our crane resembled a lot, the further the force is from the support, the greater the deflection. For the torsion, we also made sure to secure our arm along more points to the base as opposed to the singular two we had originally. These multiple anchor points made more moment to counter act the torsion moment caused by the weight of the servo and lever arm to where it wouldn't twist. Finally, since we finally had a much stronger moment to withstand the torsion moment, we could make it greater and add a counterweight which would help the servo motor lift the weight more easily to the 2 in. we needed. 
 
 <center>Design II</center>
-![Image](/additional supports.JPG){: .center-image }
+![Image](/addsupp.png){: .center-image }
 
 Overall, if we hadn't applied the concepts we picked up over Stress Analysis, we would have struggled a lot more to make our crane work. Our knowledge fo the concepts of torsion, and bending came in use a lot, especially for our design since it was a very direct approach, as I mentioned before, essentially a cantaliver beam. 
