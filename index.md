@@ -7,7 +7,7 @@
 <center>Our Crane</center>
 ![Image](/cover.png){: .center-image }
 
-Our crane is divided into three main parts: The lever arm, the crane arm, and the base. Each part was designed to prevent what torsion and bending, the two main challenges we forsaw in this project. The way our mechanism works is by putting as much stress on the base, as it is the most structurally sound. To put in perspective, everything starts at the lever arm. 
+Our crane is divided into three main parts: The lever arm, the crane arm, and the base. Each part was designed to prevent torsion and bending, the two main challenges we forsaw in this project. The way our mechanism works is by putting as much stress on the base, as it is the most structurally sound. To put in perspective, everything starts at the lever arm. 
 
 <center>The Hook</center>
 ![Image](/hook.png){: .center-image }
