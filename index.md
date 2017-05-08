@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="img.css">
 # Crane Project Team 30
 ## Sarah Jurgens, Hans Kumar, Sidney Velado
 
