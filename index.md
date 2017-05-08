@@ -45,7 +45,7 @@ Our crane is divided into three main parts: The lever arm, the crane arm, and th
  will come
 
 ### Interesting and Original Features
-<center>**Crane Arm Truss**</center>
+<center>Crane Arm Truss</center>
 ![Image](/truss.png){: .center-image }
 
 One of our favorite parts of our project was our crane arm truss. Many people went with a rectangular designs or went with diagonal truss links. We decided to do our with the straight triangles because it appeared the sturdiest in terms of torsion. We knew that the holding the weight was going to be the priority for everyone, but the fact that they ingore torsion was going to make or break a lot of teams. Our arm truss was *very* resistant to torsion. Even though past the first designing phase we had to tweak certain parts of the lever arm or base, the crane arm was the most resilient component. We were also very proud because it's design made it very hard to screw since multiple screws would get in each other's way but we managed to do it after a big effor and it paid off. Finally, the servo motor fit perfectly into our arm. we had to saw off a bit off the bottom of it, but once that was done we could scren the servo perfecting into our crane arm where it fit flush. It was the most ardous part to build but also our favorite. 
