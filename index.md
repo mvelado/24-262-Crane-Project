@@ -12,9 +12,6 @@ Our crane can be divided into three components: The lever arm, the crane arm, an
 <center>The Lever Arm</center>
 ![Image](/leverarm.png){: .center-image }
 
-<center>The Hook</center>
-![Image](/hook.png){: .center-image }
-
 The lever arm is made up of a hook on one end, a counterweight on the other, and the servo motor attached at the middle. The counterweight assists the servo motor in lifting the cylinder weight, which is lifted up using the hook.
 
 <center>Crane Arm</center>
@@ -71,16 +68,15 @@ We designed our crane to maximize the stress on the base, since it is the most s
 <center>Crane Arm Truss</center>
 ![Image](/truss.png){: .center-image }
 
-One of our favorite parts of our project was our crane arm truss. While many people chose rectangular designs or diagonal truss links, we decided on triangles because it appeared the sturdiest in terms of torsion.
-We knew that the holding the weight was going to be the priority for everyone, but the fact that they ingore torsion was going to make or break a lot of teams. Our arm truss was *very* resistant to torsion. Even though past the first designing phase we had to tweak certain parts of the lever arm or base, the crane arm was the most resilient component. We were also very proud because it's design made it very hard to screw since multiple screws would get in each other's way but we managed to do it after a big effor and it paid off. Finally, the servo motor fit perfectly into our arm. we had to saw off a bit off the bottom of it, but once that was done we could scren the servo perfecting into our crane arm where it fit flush. It was the most ardous part to build but also our favorite. 
+One of our favorite parts of our project was our crane arm truss. While many groups chose rectangular designs or diagonal truss links, we decided on triangles because it appeared the sturdiest in terms of torsion (a factor we felt most groups had overlooked). Unsurprisingly, arm truss was *very* resistant to torsion. Despite having to modify our design after the first design review, the crane arm was the most resilient feature and did not need any modifications. Although the process of assembling the arm was quite tedious, our hard work paid off when the servo motor fit perfectly inside and worked as planned.
 
 ### Structural Principle Applications
-The leap in our knowledge from our initial Statics class to Stress Analysis was very clear as we hopped from the first Design Review to the second Design Review. The first design review, our crane didn't collapse, which was good news, however, it was unable to lift the weight at all. The crane held and didn't get destroyed, but we had not properly prepared the base to withstand the torsion on the crane arm or the bending that would occur to the crane arm. 
+The leap in our knowledge from our initial Statics class to Stress Analysis was very clear as our results improved drastically from Design Review I to Design Review II. Although our crane didn't collpase in the first design review, it was unable to lift any weight at all. The crane was clearly not suited to withstand the force of the weight.
 
 <center>Design I Base</center>
 ![Image](/base.png){: .center-image }
 
-As we learned those concepts in class, we adapted our design to be ready to withstand the torsion moments and bending moments. For the bending moments, we added additional supports to the base from the arm that extending closer to the servo motor and lever arm. The additional support distribute the load more and had the support end closer to the source of the force. As we learned from cantaliver beams; which our crane resembled a lot, the further the force is from the support, the greater the deflection. For the torsion, we also made sure to secure our arm along more points to the base as opposed to the singular two we had originally. These multiple anchor points made more moment to counter act the torsion moment caused by the weight of the servo and lever arm to where it wouldn't twist. Finally, since we finally had a much stronger moment to withstand the torsion moment, we could make it greater and add a counterweight which would help the servo motor lift the weight more easily to the 2 in. we needed. 
+For the second design review, we adapted our design to be able to handle the torsion and bending moments. For bending, we added additional supports to the base, which distributed created a more even distribution of load as the attachment was closer to the source of the force. As we learned from cantaliver beams, which our crane resembled, the farther the force is from the support, the greater the deflection.For torsion, we decided to anchor our crane arm along more points in order to counteract the torsion moment caused by the weight of the lever arm.Additionally, we created a greater moment by securing the hook farther away from the motor and attaching a counter weight on the opposite end to assist in lifting.
 
 <center>Design II</center>
 ![Image](/addsupp.png){: .center-image }
