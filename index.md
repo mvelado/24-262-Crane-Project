@@ -4,25 +4,32 @@
 
 ### Mechanism:
 
+
+
 <center>Our Crane</center>
 ![Image](/cover.png){: .center-image }
 
 Our crane can be divided into three components: The lever arm, the crane arm, and the base. Each part was designed to minimize torsion and bending, the two main challenges we forsaw in this project. 
 
-<center>The Lever Arm</center>
+
+<center>Lever Arm</center>
 ![Image](/leverarm.png){: .center-image }
 
 The lever arm is made up of a hook on one end, a counterweight on the other, and the servo motor attached at the middle. The counterweight assists the servo motor in lifting the cylinder weight, which is lifted up using the hook.
+
 
 <center>Crane Arm</center>
 ![Image](/cranearm.png){: .center-image }
 
 The crane arm is a triagular cross sectional truss. Its design allows it to resist the torsion and bending caused by the lever arm and servo motor.
 
+
 <center>Base</center>
 ![Image](/newbase.png){: .center-image }
 
 We designed our crane to maximize the stress on the base, since it is the most structurally sound component. The base has a similar truss design as the crane arm and is screwed into the bottom metal plate.
+
+
 
 ### Theoretical Predictions
 
