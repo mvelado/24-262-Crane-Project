@@ -7,26 +7,25 @@
 <center>Our Crane</center>
 ![Image](/cover.png){: .center-image }
 
-Our crane is divided into three main parts: The lever arm, the crane arm, and the base. Each part was designed to prevent torsion and bending, the two main challenges we forsaw in this project. The way our mechanism works is by putting as much stress on the base, as it is the most structurally sound. To put in perspective, everything starts at the lever arm. 
-
-<center>The Hook</center>
-![Image](/hook.png){: .center-image }
-
-
-The lever arm has a "hook" that connect with the weight in order to lift it. The lever arm is screwed into the servo motor horn in order to turn and lift the weight. 
+Our crane can be divided into three components: The lever arm, the crane arm, and the base. Each part was designed to minimize torsion and bending, the two main challenges we forsaw in this project. 
 
 <center>The Lever Arm</center>
 ![Image](/leverarm.png){: .center-image }
 
-Additionally, it has a counter weight at the opposite end of the hook, in order to assist the servo motor in lifting the weight. That servo motor is screwed into our crane arm. 
+<center>The Hook</center>
+![Image](/hook.png){: .center-image }
+
+The lever arm is made up of a hook on one end, a counterweight on the other, and the servo motor attached at the middle. The counterweight assists the servo motor in lifting the cylinder weight, which is lifted up using the hook.
 
 <center>Crane Arm</center>
 ![Image](/cranearm.png){: .center-image }
 
-The crane arm is a triagular cross section truss. It's design allows it to resist the torsion and bending caused by the lever arm and servo. The crane arm is then screwed into our base, which supports the whole crane, with a similar trust design. That is then secured to the bottom metal plate, which is held in place by two metal clamps. 
+The crane arm is a triagular cross sectional truss. Its design allows it to resist the torsion and bending caused by the lever arm and servo motor.
 
 <center>Base</center>
 ![Image](/newbase.png){: .center-image }
+
+We designed our crane to maximize the stress on the base, since it is the most structurally sound component. The base has a similar truss design as the crane arm and is screwed into the bottom metal plate.
 
 ### Theoretical Predictions
 
@@ -72,7 +71,8 @@ The crane arm is a triagular cross section truss. It's design allows it to resis
 <center>Crane Arm Truss</center>
 ![Image](/truss.png){: .center-image }
 
-One of our favorite parts of our project was our crane arm truss. Many people went with a rectangular designs or went with diagonal truss links. We decided to do our with the straight triangles because it appeared the sturdiest in terms of torsion. We knew that the holding the weight was going to be the priority for everyone, but the fact that they ingore torsion was going to make or break a lot of teams. Our arm truss was *very* resistant to torsion. Even though past the first designing phase we had to tweak certain parts of the lever arm or base, the crane arm was the most resilient component. We were also very proud because it's design made it very hard to screw since multiple screws would get in each other's way but we managed to do it after a big effor and it paid off. Finally, the servo motor fit perfectly into our arm. we had to saw off a bit off the bottom of it, but once that was done we could scren the servo perfecting into our crane arm where it fit flush. It was the most ardous part to build but also our favorite. 
+One of our favorite parts of our project was our crane arm truss. While many people chose rectangular designs or diagonal truss links, we decided on triangles because it appeared the sturdiest in terms of torsion.
+We knew that the holding the weight was going to be the priority for everyone, but the fact that they ingore torsion was going to make or break a lot of teams. Our arm truss was *very* resistant to torsion. Even though past the first designing phase we had to tweak certain parts of the lever arm or base, the crane arm was the most resilient component. We were also very proud because it's design made it very hard to screw since multiple screws would get in each other's way but we managed to do it after a big effor and it paid off. Finally, the servo motor fit perfectly into our arm. we had to saw off a bit off the bottom of it, but once that was done we could scren the servo perfecting into our crane arm where it fit flush. It was the most ardous part to build but also our favorite. 
 
 ### Structural Principle Applications
 The leap in our knowledge from our initial Statics class to Stress Analysis was very clear as we hopped from the first Design Review to the second Design Review. The first design review, our crane didn't collapse, which was good news, however, it was unable to lift the weight at all. The crane held and didn't get destroyed, but we had not properly prepared the base to withstand the torsion on the crane arm or the bending that would occur to the crane arm. 
@@ -85,4 +85,4 @@ As we learned those concepts in class, we adapted our design to be ready to with
 <center>Design II</center>
 ![Image](/addsupp.png){: .center-image }
 
-Overall, if we hadn't applied the concepts we picked up over Stress Analysis, we would have struggled a lot more to make our crane work. Our knowledge fo the concepts of torsion, and bending came in use a lot, especially for our design since it was a very direct approach, as I mentioned before, essentially a cantaliver beam. 
+The concepts we learned throughout the semester in Stress Analysis helped us immensely in designing our crane. Our knowledge of torsion and bending stress was critical to our success in this project.
