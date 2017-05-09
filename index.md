@@ -65,17 +65,18 @@ We designed our crane to maximize the stress on the base, since it is the most s
  We estimate the maximum lift to 5.65 inches
 
 ### Interesting and Original Features
-<center>Crane Arm Truss</center>
-![Image](/truss.png){: .center-image }
 
 One of our favorite parts of our project was our crane arm truss. While many groups chose rectangular designs or diagonal truss links, we decided on triangles because it appeared the sturdiest in terms of torsion (a factor we felt most groups had overlooked). Unsurprisingly, the arm truss was *very* resistant to torsion. Despite having to modify our design after the first design review, the crane arm was the most resilient feature and did not need any modifications. Although the process of assembling the arm was quite tedious, our hard work paid off when the servo motor fit perfectly inside and worked as planned.
+
+<center>Crane Arm Truss</center>
+![Image](/truss.png){: .center-image }
 
 ### Structural Principle Applications
 The leap in our knowledge from our initial Statics class to Stress Analysis was very clear as our results improved drastically from Design Review I to Design Review II. Although our crane didn't collpase in the first design review, it was unable to lift any weight at all. The crane was clearly not suited to withstand the force of the weight.
 
 For the second design review, we adapted our design to be able to handle the torsion and bending moments. For bending, we added additional supports to the base, which created a more even distribution of load as the attachment was closer to the source of the force. As we learned from cantaliver beams, which our crane resembled, the farther the force is from the support, the greater the deflection. For torsion, we decided to anchor our crane arm along more points in order to counteract the torsion moment caused by the weight of the lever arm. Additionally, we were able to maximize the torque from the motor by securing the hook farther away from the motor and attaching a counterweight on the opposite end.
 
+The concepts we learned throughout the semester in Stress Analysis helped us immensely in designing our crane. Our knowledge of torsion and bending stress was critical to our success in this project.
+
 <center>Design II Modifications</center>
 ![Image](/addsupp.png){: .center-image }
-
-The concepts we learned throughout the semester in Stress Analysis helped us immensely in designing our crane. Our knowledge of torsion and bending stress was critical to our success in this project.
